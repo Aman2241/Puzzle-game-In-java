@@ -1,7 +1,7 @@
-/* save     ----  Puzzle.java
-   compile  ----- javac Puzzle.java
-   run      ----- java Puzzle
-*/
+/*User@Aman_Raj*/
+   
+
+
 import javax.swing.*;
 import java.awt.event.*;
 public class Puzzle extends JFrame implements ActionListener
